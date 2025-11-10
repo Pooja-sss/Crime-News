@@ -1,0 +1,196 @@
+{
+  "status": "ok",
+  "totalResults": 20,
+  "articles": [
+    {
+      "source": {"id": "ndtv", "name": "NDTV"},
+      "author": "Ritika Sharma",
+      "title": "Cyber fraud ring busted in Delhi, 12 arrested for duping people via fake job portals",
+      "description": "Police uncovered a large cybercrime syndicate operating from multiple cities targeting unemployed youth.",
+      "url": "https://ndtv.com/india-news/cyber-fraud-ring-busted-delhi",
+      "urlToImage": "https://ndtv.com/images/cybercrime.jpg",
+      "publishedAt": "2025-11-07T07:20:00Z",
+      "content": "Police arrested 12 suspects from Delhi and Gurugram who were running fake job recruitment websites..."
+    },
+    {
+      "source": {"id": "bbc", "name": "BBC"},
+      "author": "John Keane",
+      "title": "Massive data breach hits global bank, 3 million customer records leaked",
+      "description": "Hackers breached a multinational bank’s database, exposing millions of personal and financial records.",
+      "url": "https://bbc.com/news/tech-data-breach-bank",
+      "urlToImage": "https://bbc.com/images/databreach.jpg",
+      "publishedAt": "2025-11-06T15:40:00Z",
+      "content": "The financial regulator has ordered an urgent investigation into the breach..."
+    },
+    {
+      "source": {"id": "toi", "name": "Times of India"},
+      "author": "Sahil Verma",
+      "title": "Mumbai jewelry heist: Police recover ₹1.2 crore worth of stolen gold",
+      "description": "A gang of three was arrested for robbing a jewelry shop in Dadar last week.",
+      "url": "https://timesofindia.indiatimes.com/mumbai-heist",
+      "urlToImage": "https://toi.com/images/jewelryheist.jpg",
+      "publishedAt": "2025-11-05T12:30:00Z",
+      "content": "Mumbai crime branch officials tracked the suspects using CCTV footage and digital payments data..."
+    },
+    {
+      "source": {"id": "reuters", "name": "Reuters"},
+      "author": "Sara Jacobs",
+      "title": "Interpol launches global operation against human trafficking",
+      "description": "Interpol rescued over 300 victims and arrested 120 suspects in an anti-trafficking operation across 25 countries.",
+      "url": "https://reuters.com/world/interpol-operation-human-trafficking",
+      "urlToImage": "https://reuters.com/images/interpol.jpg",
+      "publishedAt": "2025-11-04T10:00:00Z",
+      "content": "The coordinated action targeted smuggling networks and child exploitation rings..."
+    },
+    {
+      "source": {"id": "hindu", "name": "The Hindu"},
+      "author": "Neha Menon",
+      "title": "Kerala police arrest man for cryptocurrency scam worth ₹80 lakh",
+      "description": "The accused promised high returns through a fake crypto investment platform.",
+      "url": "https://thehindu.com/news/crypto-scam-kerala",
+      "urlToImage": "https://thehindu.com/images/crypto.jpg",
+      "publishedAt": "2025-11-03T08:15:00Z",
+      "content": "Cyber cell officials traced digital wallets and froze ₹45 lakh worth of crypto assets..."
+    },
+    {
+      "source": {"id": "guardian", "name": "The Guardian"},
+      "author": "Rachel Thomas",
+      "title": "UK police seize record haul of illegal weapons in London raids",
+      "description": "Metropolitan police uncovered over 500 firearms and arrested 24 individuals linked to organized crime.",
+      "url": "https://theguardian.com/crime/london-weapons-raid",
+      "urlToImage": "https://theguardian.com/images/weapons.jpg",
+      "publishedAt": "2025-11-02T17:50:00Z",
+      "content": "The week-long operation targeted gang violence hotspots across the city..."
+    },
+    {
+      "source": {"id": "cnn", "name": "CNN"},
+      "author": "Alex Rivera",
+      "title": "US court sentences hacker to 10 years for ransomware attacks on hospitals",
+      "description": "The cybercriminal caused major disruptions to healthcare services during 2023.",
+      "url": "https://cnn.com/news/ransomware-sentence",
+      "urlToImage": "https://cnn.com/images/hacker.jpg",
+      "publishedAt": "2025-11-01T09:10:00Z",
+      "content": "The Department of Justice emphasized that critical infrastructure attacks would face harsh penalties..."
+    },
+    {
+      "source": {"id": "toi", "name": "Times of India"},
+      "author": "Rajeev Singh",
+      "title": "Fake passport racket busted in Kolkata; 8 arrested",
+      "description": "The accused created fake passports for illegal immigration using forged documents.",
+      "url": "https://toi.com/news/fake-passport-racket-kolkata",
+      "urlToImage": "https://toi.com/images/passport.jpg",
+      "publishedAt": "2025-10-31T18:45:00Z",
+      "content": "Officials seized 200 fake documents and 15 blank passports from the suspects’ possession..."
+    },
+    {
+      "source": {"id": "timesnow", "name": "Times Now"},
+      "author": "Ananya Gupta",
+      "title": "UP: Police rescue kidnapped child within 24 hours, two held",
+      "description": "Swift police action led to safe rescue of a 6-year-old boy abducted for ransom in Lucknow.",
+      "url": "https://timesnownews.com/india/kidnap-rescue",
+      "urlToImage": "https://timesnow.com/images/rescue.jpg",
+      "publishedAt": "2025-10-30T20:00:00Z",
+      "content": "Police tracked the kidnappers through cell tower triangulation and road CCTV..."
+    },
+    {
+      "source": {"id": "indianexpress", "name": "Indian Express"},
+      "author": "Priya Ramesh",
+      "title": "Pune techie duped of ₹9 lakh in online trading scam",
+      "description": "Victim was lured by fake Telegram trading group promising daily returns.",
+      "url": "https://indianexpress.com/article/india/online-trading-scam-pune",
+      "urlToImage": "https://indianexpress.com/images/trading-scam.jpg",
+      "publishedAt": "2025-10-30T09:35:00Z",
+      "content": "Cyber police warn public against unsolicited financial advice through social media platforms..."
+    },
+    {
+      "source": {"id": "republic", "name": "Republic World"},
+      "author": "Amit Desai",
+      "title": "Illegal sand mining racket exposed in Bihar, officials suspended",
+      "description": "District administration found local officers colluding with mining mafia.",
+      "url": "https://republicworld.com/india/bihar-sand-mining-scam",
+      "urlToImage": "https://republic.com/images/mining.jpg",
+      "publishedAt": "2025-10-29T11:00:00Z",
+      "content": "Over 30 trucks of illegally mined sand were seized during the raid..."
+    },
+    {
+      "source": {"id": "bbc", "name": "BBC"},
+      "author": "Emily Norton",
+      "title": "Europol arrests 45 suspects in international drug smuggling operation",
+      "description": "The operation spanned across Spain, France, and Italy targeting a Balkan cartel.",
+      "url": "https://bbc.com/news/europol-drug-operation",
+      "urlToImage": "https://bbc.com/images/drugs.jpg",
+      "publishedAt": "2025-10-28T14:25:00Z",
+      "content": "Authorities seized 2 tonnes of cocaine and €5 million in cash..."
+    },
+    {
+      "source": {"id": "toi", "name": "Times of India"},
+      "author": "Asha Patil",
+      "title": "Pune builder arrested for money laundering under PMLA",
+      "description": "The Enforcement Directorate has attached assets worth ₹25 crore.",
+      "url": "https://toi.com/news/pune-builder-ed",
+      "urlToImage": "https://toi.com/images/ed.jpg",
+      "publishedAt": "2025-10-27T07:45:00Z",
+      "content": "The accused allegedly diverted housing funds for personal luxury investments..."
+    },
+    {
+      "source": {"id": "indianexpress", "name": "Indian Express"},
+      "author": "Sneha Das",
+      "title": "Bengaluru police crack ATM skimming case, arrest two foreign nationals",
+      "description": "Citizens had reported unauthorized withdrawals from their bank accounts.",
+      "url": "https://indianexpress.com/news/atm-skimming-bengaluru",
+      "urlToImage": "https://indianexpress.com/images/atm-scam.jpg",
+      "publishedAt": "2025-10-26T13:15:00Z",
+      "content": "The accused used hidden skimming devices on ATMs across multiple locations..."
+    },
+    {
+      "source": {"id": "reuters", "name": "Reuters"},
+      "author": "Liam Johnson",
+      "title": "Interpol issues Red Corner notice for fugitive cybercrime kingpin",
+      "description": "The suspect is accused of leading a large phishing and dark web fraud network.",
+      "url": "https://reuters.com/news/interpol-redcorner",
+      "urlToImage": "https://reuters.com/images/redcorner.jpg",
+      "publishedAt": "2025-10-25T08:10:00Z",
+      "content": "Interpol has requested cooperation from multiple Asian and European countries..."
+    },
+    {
+      "source": {"id": "hindustan", "name": "Hindustan Times"},
+      "author": "Deepak Sinha",
+      "title": "Delhi police busts fake loan app scam, 20 arrested",
+      "description": "Fraudsters extorted money by threatening borrowers using their personal data.",
+      "url": "https://hindustantimes.com/india-news/fake-loan-app-scam",
+      "urlToImage": "https://hindustantimes.com/images/loan-scam.jpg",
+      "publishedAt": "2025-10-24T17:50:00Z",
+      "content": "Over 50 mobile phones and 100 SIM cards were seized from the suspects..."
+    },
+    {
+      "source": {"id": "toi", "name": "Times of India"},
+      "author": "Anil Kumar",
+      "title": "Chandigarh police arrest three in chain snatching spree",
+      "description": "Multiple women targeted in broad daylight; gang caught using traffic cameras.",
+      "url": "https://toi.com/news/chain-snatching-chandigarh",
+      "urlToImage": "https://toi.com/images/snatching.jpg",
+      "publishedAt": "2025-10-23T11:20:00Z",
+      "content": "Police said the group was involved in more than 15 incidents across Tricity..."
+    },
+    {
+      "source": {"id": "cnn", "name": "CNN"},
+      "author": "David Lee",
+      "title": "FBI arrests man for planning cyberattack on energy grid",
+      "description": "The suspect allegedly tried to recruit hackers online to disrupt power systems.",
+      "url": "https://cnn.com/news/fbi-cyberattack",
+      "urlToImage": "https://cnn.com/images/grid.jpg",
+      "publishedAt": "2025-10-22T09:00:00Z",
+      "content": "FBI cyber division said the threat was neutralized before causing real harm..."
+    },
+    {
+      "source": {"id": "ndtv", "name": "NDTV"},
+      "author": "Shreya Iyer",
+      "title": "Maharashtra police bust illegal betting racket worth ₹5 crore",
+      "description": "The racket operated through WhatsApp and Telegram during IPL season.",
+      "url": "https://ndtv.com/news/ipl-betting-racket",
+      "urlToImage": "https://ndtv.com/images/betting.jpg",
+      "publishedAt": "2025-10-21T10:30:00Z",
+      "content": "Several laptops and mobile phones were recovered; investigation is ongoing..."
+    }
+  ]
+}
